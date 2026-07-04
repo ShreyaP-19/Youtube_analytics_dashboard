@@ -1,0 +1,8 @@
+streamlit #— Web-based interactive dashboard framework
+pandas #— Data manipulation and loading
+plotly #— Data visualization and interactive charts
+google-api-python-client #— YouTube Data API v3 integration
+python-dotenv #— Loading local configuration and API keys from .env
+fpdf2 #— PDF generation engine for executive summaries
+unidecode #— Transliteration of video titles to ASCII to prevent PDF layout errors
+kaleido #— Required by Plotly to export charts as static .png images for the PDF report
