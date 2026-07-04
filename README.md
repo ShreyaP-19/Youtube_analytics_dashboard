@@ -1,8 +1,12 @@
+
 # YouTube Analytics Dashboard
 
 A comprehensive **Streamlit-based analytics dashboard** for YouTube channel performance evaluation and engagement analysis. This application provides detailed insights into video metrics, audience engagement, and channel performance through interactive visualizations and SQL-powered analytics.
 
 ---
+
+## 🌐 Live Deployment
+- **App**: [https://huggingface.co/spaces/ShreyaP1908/Youtube_analytics_dashboard](https://huggingface.co/spaces/ShreyaP1908/Youtube_analytics_dashboard)
 
 ## 📊 Features
 
